@@ -9,4 +9,4 @@ It can solve easy Sudoku puzzles like human solving, but cannot solve complex on
 
 - Make conda env by conda_requirements.txt
 - Prepare a Sudoku puzzle in input.txt
-- Run 'main.py input.txt'
+- Run `main.py input.txt`
